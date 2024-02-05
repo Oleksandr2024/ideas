@@ -12,9 +12,9 @@ You agree to use the Service only for purposes that are permitted by these terms
 
 ### 4. Restrictions
 You shall not:
-    - Engage in any activity that interferes with or disrupts the Service.
-    - Use the Service for any fraudulent or illegal purpose.
-    - Copy, distribute, or disclose any part of the Service in any medium.
+- Engage in any activity that interferes with or disrupts the Service.
+- Use the Service for any fraudulent or illegal purpose.
+- Copy, distribute, or disclose any part of the Service in any medium.
 
 ### 5. Termination
 BackPal reserves the right, without notice and in its sole discretion, to terminate your account or your use of the Service and to block or prevent your future access to, and use of, the Service.
